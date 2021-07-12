@@ -7,3 +7,4 @@
 - Day 2: History and techniques of ML
 - Day 3: Data exploration
 - Day 4: Explored linear and logistic regression
+- Day 5: Decision Tree
