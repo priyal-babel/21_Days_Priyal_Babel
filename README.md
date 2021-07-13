@@ -8,3 +8,4 @@
 - Day 3: Data exploration
 - Day 4: Explored linear and logistic regression
 - Day 5: Decision Tree
+- Day 6: Support Vector machine
